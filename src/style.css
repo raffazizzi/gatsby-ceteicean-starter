@@ -1,0 +1,25 @@
+/* Add your styles below! */
+
+h1 {
+    text-align: center;
+}
+
+.bio {
+    border: 5px solid green;
+}
+
+#me {
+    font-size: 100pt;
+}
+
+tei-div {
+    color: purple;
+}
+
+tei-head {
+  font-size: 250% !important;
+}
+
+tei-fw[type="catch"] {
+    float: right;
+}
