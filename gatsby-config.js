@@ -1,11 +1,11 @@
-const basePath = '/mith301-project'
+const basePath = '/gatsby-ceteicean-starter'
 
 module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
     title: `Group Project`,
-    description: `A template for the MITH301 group project.`,
-    author: `MITH301 Teachers`
+    description: `A template for a group project.`,
+    author: `Tutors`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
